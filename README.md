@@ -14,3 +14,12 @@ Dies ist eine kleine GitHub-Pages-Seite für meinen **Instagram-Bio-Link**. Sie 
 
 ## Hinweis
 Als Amazon-Partner verdiene ich an qualifizierten Verkäufen. Für dich entstehen dabei keine zusätzlichen Kosten.
+
+
+### Impressum
+- HardwareStream - Stevan Menicanin
+- c/o Online-Impressum.de #35463
+- Europaring 90
+- 53757 Sankt Augustin
+
+## youtube@hardwarestream.de
